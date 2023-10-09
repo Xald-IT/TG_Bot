@@ -1,0 +1,15 @@
+{
+    "name": "1",
+    "api_id": "19884220",
+    "api_hash": "2977ca14b7acd5a3731e885f8979d2f4",
+    "phone_number": "+4915209509628",
+    "password": null,
+    "messages": [
+        "Привет, это сообщение от аккаунта 1!",
+        "Привет это второе сообщение",
+        "Привет, это 3 сообщение"
+    ],
+    "message_interval": 1,
+    "groups_file": "my_groups.json",
+    "response_delay": 1
+}
